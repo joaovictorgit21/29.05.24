@@ -1,0 +1,20 @@
+# SISTEMAS OPERACIONAIS (S.O.)
+
+## O que é um sistema opepracional
+
+
+> Quando se fala de sistemas opercacionais, já vem a cabeça os famosos sistemas usados hoje em dia nos computadores como o Windows, a famosa janelinha, o Linux, o pinguinzinho e o macOS, a maçãzinha, nos celulares sáo conhecidos o Android, o robozinho, o IOS, tambem a maçãzinha e Xiomi.
+
+> Um sistema operacional é um programa (SoftWare) que permite a comunicação entre a aplicação e com os dispositivos eletronicos (HardWare), para que possam rodar em um dispositivos, necessita a relação com algum determinado componente técnico como, um processador, uma placa de video e uma memória RAM, para que possa realizar suas tarefas especifica, o papel do sistema operacional é fazer um fluxo das aplicações para que consiga rodar multiplas tarefas de uma só vez, ele recebe as informações e rapassa ao usuario por uma interface visual que pode ser chamada de GUI (Graphical User Interface). 
+
+
+Links utilizados:
+
+TechTudo:
+https://www.techtudo.com.br/guia/2024/03/o-que-e-um-sistema-operacional-veja-tipos-e-exemplos-edsoftwares.ghtml
+
+Alura:
+https://www.alura.com.br/artigos/sistemas-operacionais-conceito-estrutura
+
+Dio:
+https://www.dio.me/articles/introducao-a-sistemas-operacionais
